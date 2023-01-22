@@ -4,13 +4,22 @@
 #     https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
 # Start of user-defined ignore rules
+
 .vscode
+# Local files produced by execution
 Half_Adder/half_adder/half_adder.cache/
 Half_Adder/half_adder/half_adder.hw/
 Half_Adder/half_adder/half_adder.ip_user_files/
 Half_Adder/half_adder/half_adder.runs/
 Half_Adder/half_adder/half_adder.sim/
 Half_Adder/half_adder/half_adder.xpr
+Full_Adder/full_adder/full_adder.cache/
+Full_Adder/full_adder/full_adder.hw/
+Full_Adder/full_adder/full_adder.ip_user_files/
+Full_Adder/full_adder/full_adder.runs/
+Full_Adder/full_adder/full_adder.sim/
+Full_Adder/full_adder/full_adder.xpr
+
 # End of user-defined ignore rules     
 
 # Node artifact files
